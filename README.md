@@ -1,4 +1,4 @@
-﻿**Chat Impersonator** allows you to impersonate another player in chat.
+**Chat Impersonator** allows you to impersonate another player in chat.
 
 **Warning:** This can also be used to make another person run a chat command, so be careful who you grant permission.
 
