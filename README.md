@@ -6,8 +6,8 @@
 
 The following command can be run both in-game as well as in console. When using it in-game, prefix it with a forward slash `/`.
 
-- **ci `<player>` `<message>`** -- write a chat message as somebody else
+- `ci <player>` <message>` -- write a chat message as somebody else
 
 ## Permissions
 
-- **chatimpersonator.use** -- required for command `ci`
+- `chatimpersonator.use` -- required for command `ci`
